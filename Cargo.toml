@@ -1,0 +1,10 @@
+cargo-features = ["edition"]
+
+[package]
+name = "octree"
+version = "0.1.0"
+authors = ["Geordon Worley <vadixidav@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+alga = "0.7.1"
